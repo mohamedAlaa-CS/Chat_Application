@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "763177495346",
+    "project_id": "login-d1911",
+    "storage_bucket": "login-d1911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763177495346:android:5206cca6ebbfab89f8452b",
+        "android_client_info": {
+          "package_name": "com.example.chat_aplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763177495346-nlllgrlknnvmgkep5epa64b1jf1ceo95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7voJJ-z_Uy7wp9g2CLtsg51F-bi2YJ_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763177495346-8ug2lptmcqbtp2lv64jrb4l8qdj23lcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763177495346:android:9cf06609a0a12eb9f8452b",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763177495346-1imag4a8oq06gurl8d78ophnfse9lc6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_firebase",
+            "certificate_hash": "b83ad7675f87118086acc38dc2b844093ba30f99"
+          }
+        },
+        {
+          "client_id": "763177495346-nlllgrlknnvmgkep5epa64b1jf1ceo95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7voJJ-z_Uy7wp9g2CLtsg51F-bi2YJ_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763177495346-8ug2lptmcqbtp2lv64jrb4l8qdj23lcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
